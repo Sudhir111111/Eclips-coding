@@ -1,0 +1,12 @@
+package JavaPritice;
+
+public class B implements A {
+public static void main(String[] args) {
+}
+@Override
+public void test3() {
+	System.out.println("hii");
+}
+
+
+}

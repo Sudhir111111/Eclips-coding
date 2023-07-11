@@ -1,0 +1,9 @@
+package JavaPritice;
+
+public class A {
+final int x = 0;
+static final int y = 0;
+public static void main(String[] args) {
+	A a1=new A();
+	System.out.println(y+a1.x);
+}}

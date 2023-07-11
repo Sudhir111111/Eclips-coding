@@ -1,0 +1,10 @@
+package JavaPritice;
+
+public class A {
+	A(){
+		this.test();
+		System.out.println("hii");
+	}
+public void test() {
+System.out.println(100);
+}}

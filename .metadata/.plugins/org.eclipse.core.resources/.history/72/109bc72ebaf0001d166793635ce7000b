@@ -1,0 +1,9 @@
+package JavaPritice;
+
+public class A {
+	A(){
+		System.out.println("hii");
+	}
+public void test() {
+System.out.println(100);
+}}

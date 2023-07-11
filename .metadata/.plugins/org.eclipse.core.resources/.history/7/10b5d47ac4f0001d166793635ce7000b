@@ -1,0 +1,10 @@
+package JavaPritice;
+
+public class A {
+public static void main(String[] args) {
+for (;;) { // infinite loop
+System.out.println(100);
+ // it exit for loop
+}
+}}
+

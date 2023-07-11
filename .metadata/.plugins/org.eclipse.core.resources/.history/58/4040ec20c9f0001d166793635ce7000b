@@ -1,0 +1,10 @@
+package JavaPritice;
+
+public class A {
+public static void main(String[] args) {
+for (;;) { // infinite loop
+System.err.println("I Love you sudeeshna");
+ // it exit for loop
+}
+}}
+

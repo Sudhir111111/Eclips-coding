@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Apache Tomcat v9.0 (2) at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Apache Tomcat v9.0 (2) at localhost" name="Apache Tomcat v9.0 (2) at localhost" runtime-id="Apache Tomcat v9.0 (2)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="Jstl1::org.eclipse.jst.jee.server:Jstl1::jst.web::4.0"/>
+  </server>
+  <server hostname="localhost" id="J2EE Preview at localhost" name="J2EE Preview at localhost" runtime-id="J2EE Preview" server-type="org.eclipse.jst.server.preview.server" server-type-id="org.eclipse.jst.server.preview.server" start-timeout="240" stop-timeout="240" timestamp="1">
+    <list key="modules" value0="MyjsProject::org.eclipse.wst.web.internal.deployables.static:MyjsProject::wst.web::1.0"/>
+  </server>
+</servers>

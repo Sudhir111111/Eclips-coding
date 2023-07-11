@@ -1,0 +1,13 @@
+package p2;
+
+public class C {
+	public static void main(String[] args) {
+		A a1=new A();
+		a1.setName("sudhir");
+		A a2=new A();
+		a2.setName("sudee");
+		A a3=new A();
+		a3.setName("rahul");
+	}
+
+}

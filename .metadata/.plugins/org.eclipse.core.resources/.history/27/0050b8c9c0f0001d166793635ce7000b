@@ -1,0 +1,13 @@
+package JavaPritice;
+
+ @FunctionalInterface
+public interface A {
+default void test1() { //complete method
+System.out.println(100);
+}
+default void test2() {
+System.out.println(200);
+}
+public void test3(); //incomplete
+}
+

@@ -1,0 +1,6 @@
+package JavaPritice;
+
+public interface A {
+int id ;
+String city = "Bangalore";
+}
